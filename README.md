@@ -4,7 +4,7 @@
 
 ## 歡迎來到《大陸居民臺灣正體字講義》
 
-本倉庫是《大陸居民臺灣正體字講義》的靜態網站生成器倉庫，需要將此倉庫之根目錄置於[《大陸居民臺灣正體字講義》中央主倉庫](https://github.com/zhmgczh/Notes-on-Traditional-Chinese-Characters-in-Taiwan-for-Mainland-Chinese-Residents)的根目錄下。此倉庫生成的靜態網站應位於倉庫根目錄下之「NTCCTMCR」資料夾中，故使用時可將倉庫[NTCCTMCR](https://github.com/zhmgczh/NTCCTMCR)之根目錄置於本倉庫根目錄下。依據本倉庫內容構建的網站如下：
+本倉庫是《大陸居民臺灣正體字講義》的靜態網站生成器倉庫，需要將此倉庫之根目錄置於[《大陸居民臺灣正體字講義》中央主倉庫](https://github.com/ntcctmcr/Notes-on-Traditional-Chinese-Characters-in-Taiwan-for-Mainland-Chinese-Residents)的根目錄下。此倉庫生成的靜態網站應位於倉庫根目錄下之「NTCCTMCR」資料夾中，故使用時可將倉庫[NTCCTMCR](https://github.com/ntcctmcr/NTCCTMCR)之根目錄置於本倉庫根目錄下。依據本倉庫內容構建的網站如下：
 
 - [《大陸居民臺灣正體字講義》（靜態備用站）](https://static.zh-tw.top/) - static.zh-tw.top （純靜態構建）
 
